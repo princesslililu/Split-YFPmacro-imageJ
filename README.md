@@ -6,10 +6,10 @@ This macro is useful when your microscopy images are all stored as 'series' in a
 This macro will allow you to automatically open and apply changes to all series in a .lif file. 
 
 In this particular macro the actions are:
- *Change the colours of the channels
- *Add a scalebar
+ * Change the colours of the channels
+ * Add a scalebar
  * Merge two channels
- *save 
+ * save 
 
 Because there doesn't appear to be/I can't find a way to extract the number of series in a given .lif, the user has to define this manually. However, if you know the number of series in the .lif file then you can input this so that the macro processes them all. There is also an option to pick only one series, or a range. 
 
